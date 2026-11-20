@@ -1,0 +1,3 @@
+java is a popular programming language.
+java is easy to learn and java is fun.
+I am learning java for my internship.
