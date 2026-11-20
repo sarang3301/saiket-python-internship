@@ -1,0 +1,5 @@
+Python is a popular programming language. Python is used for web development, data analysis, and automation.
+
+Learning Python is fun, and practice makes learning easier. The more you practice, the better you become!
+
+Programming is not only about writing code; it is also about solving problems. A good programmer reads, writes, and tests code every day.

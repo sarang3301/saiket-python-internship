@@ -1,0 +1,10 @@
+﻿__pycache__/
+*.pyc
+.env
+venv/
+.venv/
+tasks.json
+rates_cache.json
+scraped_results.txt
+*_report.txt
+*_frequency.png
